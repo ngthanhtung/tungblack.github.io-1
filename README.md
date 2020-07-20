@@ -14,4 +14,4 @@ Licensed under the [Apache License, version 2.0](https://www.apache.org/licenses
 
 [Telegram](http://t.me/tungblack)
 
-[Twitter] (https://twitter.com/tungblck1)
+[Twitter](https://twitter.com/tungblck1)
