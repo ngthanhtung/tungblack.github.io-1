@@ -1,0 +1,40 @@
+<package>
+	<id>com.tungblack.appsyncunified</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.1.2</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> Appsync iOS 12  Linus Yang, Karen/あけみ </description>
+		<description> Tungblack's Repository</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/tungblack</url>
+		</link>
+		
+		<link>
+			<name>Facebook</name>
+			<url>https://facebook.com/tomkit.root</url>
+		</link>
+		
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/tungblack</url>	
+		</link>
+		
+	</links>
+</package>

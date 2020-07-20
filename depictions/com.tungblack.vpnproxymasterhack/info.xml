@@ -1,0 +1,40 @@
+<package>
+	<id>com.tungblack.vpnproxymasterhack</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.2</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> VPN Proxy Master Vietnam</description>
+		<description> Unlimited VPN VIP! </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/tungblack</url>
+		</link>
+		
+		<link>
+			<name>Facebook</name>
+			<url>https://facebook.com/tomkit.root</url>
+		</link>
+		
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/tungblack</url>	
+		</link>
+		
+	</links>
+</package>

@@ -1,0 +1,40 @@
+<package>
+	<id>com.tungblack.cracktool3</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.X</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> Crack Tweaks on one click. arm64 </description>
+		<description> This package version has been marked as Working based on feedback from users in the community. The current positive rating is 100% with 5 working reports</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/tungblack</url>
+		</link>
+		
+		<link>
+			<name>Facebook</name>
+			<url>https://facebook.com/tomkit.root</url>
+		</link>
+		
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/tungblack</url>	
+		</link>
+		
+	</links>
+</package>

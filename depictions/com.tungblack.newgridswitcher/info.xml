@@ -1,0 +1,42 @@
+<package>
+	<id>com.tungblack.newgridswitcher</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0 12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> Compatible with iOS 11 and 12 </description>
+		<description> This tweak will enable the native grid switcher on all devices on iOS 11 and iOS 12.
+There are no settings to configure.
+As soon as you enable the tweak, it will replace your app switcher with a native grid switcher, built into iOS 11 and 12.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/tungblack</url>
+		</link>
+		
+		<link>
+			<name>Facebook</name>
+			<url>https://facebook.com/tomkit.root</url>
+		</link>
+		
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/tungblack</url>	
+		</link>
+		
+	</links>
+</package>

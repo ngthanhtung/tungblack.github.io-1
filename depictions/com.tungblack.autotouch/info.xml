@@ -1,0 +1,40 @@
+<package>
+	<id>com.tungblack.autotouch</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> Record and playback touch operations, play macro scripts automatically </description>
+		<description></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/tungblack</url>
+		</link>
+		
+		<link>
+			<name>Facebook</name>
+			<url>https://facebook.com/tomkit.root</url>
+		</link>
+		
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/tungblack</url>	
+		</link>
+		
+	</links>
+</package>

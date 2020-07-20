@@ -1,0 +1,40 @@
+<package>
+	<id>com.tungblack.callbarx</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description> CallBar X for all iOS 11 iPhones </description>
+		<description> The so-anticipated tweak is now available Complete call handling for Telephony and FaceTime audio calls, along with all other types of calls including Viber, WhatsApp, Skype etc, completely new UI,  easier to access with instant dismissal with just a left swipe and a whole new and complete dialer interfaceComplete call handling for Telephony and FaceTime audio calls, along with all other types of calls including Viber, WhatsApp, Skype etc, completely new UI,  easier to access with instant dismissal with just a left swipe and a whole new and complete dialer interface CallBar re-designs the incoming call view to allow you to use your device while it's ringing or while in a call. Answer, decline or dismiss a call with ease without stopping what you're doing. You can pick up a call and stay where you are while in any application. Even place calls from anywhere by activating the dialer interface with an activation method of your choice Several styles to customise appearance. Light, Dark, curved and Concept X , an iPhone X-like style that's been requested a lot so far Supports all iPhones on iOS 11</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No Screenshots</description>
+			<image></image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Github</name>
+			<url>https://github.com/tungblack</url>
+		</link>
+		
+		<link>
+			<name>Facebook</name>
+			<url>https://facebook.com/tomkit.root</url>
+		</link>
+		
+		<link>
+			<name>Telegram</name>
+			<url>https://t.me/tungblack</url>	
+		</link>
+		
+	</links>
+</package>
